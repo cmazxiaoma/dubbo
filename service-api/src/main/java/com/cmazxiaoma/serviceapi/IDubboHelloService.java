@@ -9,4 +9,8 @@ package com.cmazxiaoma.serviceapi;
 public interface IDubboHelloService {
 
     String hello();
+
+    void executeServiceException();
+
+    void executeRpcException();
 }

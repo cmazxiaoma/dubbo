@@ -21,6 +21,7 @@
         <module>dubbo-consumer</module>
         <module>dubbo-provider</module>
         <module>service-api</module>
+        <module>common</module>
     </modules>
 
 
